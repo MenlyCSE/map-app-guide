@@ -1,12 +1,11 @@
 <a name="readme-top"></a>
 
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Discord-Server][discord-shield]][discord-url]
 [![STEME-E][steme-shield]][steme-url]
 
-
-<img src="https://discordapp.com/api/guilds/784234582999695421/widget.png?style=banner2" alt="Discord Banner 2"/>
 
 <!-- Logo -->
 <br />
