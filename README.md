@@ -3,7 +3,9 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Pull Requests][issues-shield]][issues-url]
+[![Discord-Server][discord-shield]][discord-url]
 [![STEME-E][steme-shield]][steme-url]
+
 
 
 
@@ -195,9 +197,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 
-[steme-shield]: https://img.shields.io/badge/STEME-Offical%20Page-shield?style=for-the-badge&link=https%3A%2F%2Fwww.steme.org
-
+[steme-shield]: https://img.shields.io/badge/STEME%20Page-shield?style=for-the-badge&color=%23F6D55B&link=https%3A%2F%2Fwww.steme.org
 [steme-url]: https://www.steme.org
+
+[discord-shield]: https://img.shields.io/badge/Discord%20Server-shield?style=for-the-badge&color=%23738ADB&link=https%3A%2F%2Fwww.steme.org
+[discord-url]: https://discord.gg/2EuA82Xayg
+
 [product-screenshot]: images/screenshot.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
