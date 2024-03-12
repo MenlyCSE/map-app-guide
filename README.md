@@ -3,7 +3,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Pull Requests][issues-shield]][issues-url]
-[![STEME-E][linkedin-shield]][linkedin-url]
+[![STEME-E][steme-shield]][linkedin-url]
 
 
 
@@ -69,14 +69,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![React][React.js]][React-url]
+* [![React][React.js]][React-url]
+* [![React][React.js]][React-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,7 +199,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/STEME-Youth%20Development-shield?style=for-the-badge&link=https%3A%2F%2Fwww.steme.org
+[steme-shield]: https://img.shields.io/badge/STEME-Offical%20Page-shield?style=for-the-badge&link=https%3A%2F%2Fwww.steme.org
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
