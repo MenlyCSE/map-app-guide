@@ -5,6 +5,7 @@
 [![Discord-Server][discord-shield]][discord-url]
 [![STEME-E][steme-shield]][steme-url]
 
+![Discord Banner 1](https://discordapp.com/api/guilds/784234582999695421/widget.png?style=banner1)
 
 <!-- Logo -->
 <br />
