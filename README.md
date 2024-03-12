@@ -7,12 +7,10 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!-- Logo -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <img src="https://static.wixstatic.com/media/8c1082_5c919dc4666a4ca193ba1a9efb692ed7~mv2.png/v1/crop/x_0,y_133,w_500,h_249/fill/w_552,h_273,al_c,lg_1,q_85,enc_auto/STEM%20E%20YCDP.png" alt="Logo">
 
 <h3 align="center">Map App</h3>
 
@@ -203,7 +201,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/STEME-Youth%20Development-shield?style=for-the-badge&link=https%3A%2F%2Fwww.steme.org
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
