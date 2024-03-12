@@ -6,8 +6,6 @@
 [![STEME-E][steme-shield]][steme-url]
 
 
-
-
 <!-- Logo -->
 <br />
 <div align="center">
@@ -25,6 +23,7 @@
 </div>
 
 
+<!-- shortcuts -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -60,7 +59,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-
 
 * [![React][React.js]][React-url]
 * [![React][React.js]][React-url]
@@ -105,7 +103,6 @@ This is an example of how to list things you need to use the software and how to
 <p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
