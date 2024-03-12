@@ -143,7 +143,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- Links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+
+[contributors-url]: https://github.com/STEM-E-Youth-Career-Development-Program/map-app/graphs/contributors
 
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
