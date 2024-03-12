@@ -2,7 +2,6 @@
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-[![Pull Requests][issues-shield]][issues-url]
 [![Discord-Server][discord-shield]][discord-url]
 [![STEME-E][steme-shield]][steme-url]
 
@@ -146,7 +145,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [contributors-url]: https://github.com/STEM-E-Youth-Career-Development-Program/map-app/graphs/contributors
 
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/STEM-E-Youth-Career-Development-Program/map-app.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 
 [steme-shield]: https://img.shields.io/badge/STEME%20Page-shield?style=for-the-badge&color=%23F6D55B&link=https%3A%2F%2Fwww.steme.org
