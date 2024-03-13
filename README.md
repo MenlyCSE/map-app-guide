@@ -55,9 +55,8 @@
 
 The STEME Youth Career Development
 Program's mapSTEM application tracks various events and activities in Science, Technology, Engineering, Math, and Entrepreneurship and makes it accessible and affordable for its users.
-
-<p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
-
+<br>
+<br>
 
 
 ### Built With
@@ -65,10 +64,7 @@ Program's mapSTEM application tracks various events and activities in Science, T
 * ![React][React.js]
 * ![Google][Google.api]
 
-
-
-<p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
-
+<p align="right"><a href="#readme-top">-back to top-</a></p>
 
 ## Getting Started
 
@@ -104,15 +100,14 @@ This is an example of how to list things you need to use the software and how to
 
 ## STEME API
 
-> [!TIP]
-> You can access the API here: [https://steme.org/api/](https://insertLinkHere.com)
-
 ```sh
 fetch('https://mapstem-api.azurewebsites.net/api/')
 ```
 
-<p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
-
+> [!TIP]
+> You can access the API here: [https://steme.org/api/](https://insertLinkHere.com)
+<br>
+<br>
 
 ## Contributing
 
@@ -126,17 +121,11 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+<br>
+<br>
 
-<p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
 
-
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
+<p align="right"><a href="#readme-top">-back to top-</a></p>
 
 
 <!-- Links -->
