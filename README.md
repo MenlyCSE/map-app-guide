@@ -4,7 +4,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![Discord-Server][discord-shield]][discord-url]
-[![STEME-E][steme-shield]][steme-url]
+
 
 
 <!-- Logo -->
@@ -53,7 +53,8 @@
 
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+The STEME Youth Career Development
+Program's mapSTEM application tracks various events and activities in Science, Technology, Engineering, Math, and Entrepreneurship and makes it accessible and affordable for its users.
 
 <p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
 
@@ -61,10 +62,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![React][React.js]][React-url]
-* [![React][React.js]][React-url]
-* [![React][React.js]][React-url]
+* ![React][React.js]
+* ![Google][Google.api]
+
 
 
 <p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
@@ -98,17 +98,18 @@ This is an example of how to list things you need to use the software and how to
    npm start
    ```
 
-> [!TIP]
-> You can access the API here: [https://steme.org/api/](https://insertLinkHere.com)
 
 <p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
 
 
-## Usage
+## STEME API
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+> [!TIP]
+> You can access the API here: [https://steme.org/api/](https://insertLinkHere.com)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+```sh
+fetch('https://mapstem-api.azurewebsites.net/api/')
+```
 
 <p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
 
@@ -146,13 +147,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/STEM-E-Youth-Career-Development-Program/map-app.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 
-[steme-shield]: https://img.shields.io/badge/STEME%20Page-shield?style=for-the-badge&color=%23F6D55B&link=https%3A%2F%2Fwww.steme.org
-[steme-url]: https://www.steme.org
+[discord-shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FNKDkE52HhH%3Fwith_counts%3Dtrue&query=%24.approximate_presence_count&suffix=%20Online&style=for-the-badge&logo=Discord&logoColor=white&label=Discord&color=%235864f4
 
-[discord-shield]: https://img.shields.io/badge/Discord%20Server-shield?style=for-the-badge&color=%23738ADB&link=https%3A%2F%2Fwww.steme.org
 [discord-url]: https://discord.gg/2EuA82Xayg
 
 [product-screenshot]: images/screenshot.png
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+
+[Google.api]: https://img.shields.io/badge/Google-black?style=for-the-badge&logo=google&color=%2320232A
+
