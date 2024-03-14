@@ -64,12 +64,18 @@ Program's mapSTEM application tracks various events and activities in Science, T
 * ![React][React.js]
 * ![Google][Google.api]
 
+<br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
+
 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
+<br>
+<p align="right"><a href="#readme-top">-back to top-</a></p>
+
 
 ### Prerequisites
 
@@ -78,6 +84,10 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+
+<br>
+<p align="right"><a href="#readme-top">-back to top-</a></p>
+
 
 ### Installation
 
@@ -94,8 +104,8 @@ This is an example of how to list things you need to use the software and how to
    npm start
    ```
 
-
-<p align="right"><a href="#readme-top" style="opacity:60%;">-back to top-</a></p>
+<br>
+<p align="right"><a href="#readme-top">-back to top-</a></p>
 
 
 ## STEME API
@@ -106,8 +116,9 @@ fetch('https://mapstem-api.azurewebsites.net/api/')
 
 > [!TIP]
 > You can access the API here: [https://steme.org/api/](https://insertLinkHere.com)
+
 <br>
-<br>
+<p align="right"><a href="#readme-top">-back to top-</a></p>
 
 ## Contributing
 
@@ -121,10 +132,8 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-<br>
-<br>
 
-
+<br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
 
