@@ -78,10 +78,58 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
+#### Windows
+> [!TIP]
+> You can follow this Windows [YouTube Guide](https://www.youtube.com/watch?v=f6TXEnHT_Mk)
+<ol>
+  <li><a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US">Install Windows terminal</a></li>
+  <li><a href="https://git-scm.com/download/win">Install Git</a></li>
+  <li><a href="https://nodejs.org/en/download/">Install Node JS</a></li>
+  <li>Use your terminal for the following commands:</a></li>
+</ol>
+
+ ```sh
+npm install install --global expo-cli
+```
+```sh
+expo register
+```
+```sh
+expo login
+```
+<li><a href="https://code.visualstudio.com/">Install Visual Studio Code (IDE)</a>
+</li>
+
+<br>
+
+#### MacOS
+> [!TIP]
+> You can follow this MacOS [YouTube Guide](https://www.youtube.com/watch?v=4U_OQHGhSf0&t=128s)
+<ol>
+  <li><a href="https://iterm2.com/index.html">Install iTerm2 terminal</a></li>
+  <li><a href="https://brew.sh/">Install homeBrew</a></li>
+  <li>Use your terminal for the following commands:</a></li>
+</ol>
+
+ ```sh
+brew install node
+```
+ ```sh
+brew install watchman
+```
+ ```sh
+npm install install --global expo-cli
+```
+```sh
+expo register
+```
+```sh
+expo login
+```
+
+<li><a href="https://code.visualstudio.com/">Install Visual Studio Code (IDE)</a>
+</li>
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
