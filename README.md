@@ -33,7 +33,7 @@
     - [ Windows](#windows)
     - [ MacOS](#macos)
   - [ App Demo](#app-demo)
-  - [ STEME api](#steme's-api)
+  - [ API Page](#api-page)
   - [ How to Contribute](#how-to-contribute)
 
 <br>
@@ -152,7 +152,7 @@ Use your code editor (e.g., <a href="https://code.visualstudio.com/">Visual Stud
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
 
-## STEME's API
+## API Page
 
 The API contains a library of information (e.g., user information):
 
