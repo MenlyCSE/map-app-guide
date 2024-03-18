@@ -41,6 +41,7 @@
       <li><a href="#Running-the-App">Running the App</a></li>
     </ul>
   </li>
+  <li><a href="#App-Demo">App Demo</a></li>
   <li><a href="#STEME-API">STEME API</a></li>
   <li><a href="#contributing">Contributing</a></li>
 </ol>
@@ -149,9 +150,18 @@ Use your code editor (e.g., <a href="https://code.visualstudio.com/">Visual Stud
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
 
+## App Demo
+
+
+
+
+<br>
+<p align="right"><a href="#readme-top">-back to top-</a></p>
+
+
 ## STEME API
 
-The API contains a library of information (e.g., user information). You can use the following line of code to access it: 
+The API contains a library of information (e.g., user information):
 
 ```sh
 fetch('https://mapstem-api.azurewebsites.net/api/')
