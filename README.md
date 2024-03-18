@@ -128,9 +128,6 @@ expo login
 > [!TIP]
 > You can follow this MacOS [YouTube Guide](https://www.youtube.com/watch?v=4U_OQHGhSf0&t=128s)
 
-<li><a href="https://code.visualstudio.com/">Install Visual Studio Code (IDE)</a>
-</li>
-
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
