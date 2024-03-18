@@ -38,7 +38,7 @@
     <a href="#getting-started">Getting Started</a>
     <ul>
       <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#installation">Installation</a></li>
+      <li><a href="#Running-the-App">Running the App</a></li>
     </ul>
   </li>
   <li><a href="#STEME-API">STEME API</a></li>
@@ -77,11 +77,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of how to list things you need to use the software and how to install them. You can start by installing <a href="https://code.visualstudio.com/">Visual Studio Code (IDE).</a>
 
 #### Windows
 <ol>
-  <li><a href="https://code.visualstudio.com/">Install Visual Studio Code (IDE)</a></li>
   <li><a href="https://apps.microsoft.com/detail/9n0dx20hk701?hl=en-US&gl=US">Install Windows terminal</a></li>
   <li><a href="https://git-scm.com/download/win">Install Git</a></li>
   <li><a href="https://nodejs.org/en/download/">Install Node JS</a></li>
@@ -98,13 +97,12 @@ expo register
 expo login
 ```
 > [!TIP]
-> You can follow this Windows [YouTube Guide](https://www.youtube.com/watch?v=f6TXEnHT_Mk)
+> You can follow this [Windows YouTube Guide](https://www.youtube.com/watch?v=f6TXEnHT_Mk)
 
 <br>
 
-#### MacOS
+#### MacOS 
 <ol>
-  <li><a href="https://code.visualstudio.com/" target="_blank">Install Visual Studio Code (IDE)</a></li>
   <li><a href="https://iterm2.com/index.html">Install iTerm2 terminal</a></li>
   <li><a href="https://brew.sh/">Install homeBrew</a></li>
   <li>Use your terminal for the following commands:</a></li>
@@ -126,26 +124,26 @@ expo register
 expo login
 ```
 > [!TIP]
-> You can follow this MacOS [YouTube Guide](https://www.youtube.com/watch?v=4U_OQHGhSf0&t=128s)
+> You can follow this [MacOS YouTube Guide](https://www.youtube.com/watch?v=4U_OQHGhSf0&t=128s)
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
 
-### Installation
+### Running the App
 
-1. Clone the repo
+Use your code editor (e.g., <a href="https://code.visualstudio.com/">Visual Studio Code</a>) to run the following commands: 
+
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/STEM-E-Youth-Career-Development-Program/map-app.git
    ```
-2. Install NPM packages
    ```sh
    npm install
    ```
-3. Start the app
    ```sh
    npm start
    ```
+
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
@@ -153,12 +151,14 @@ expo login
 
 ## STEME API
 
+The API contains a library of information (e.g., user information). You can use the following line of code to access it: 
+
 ```sh
 fetch('https://mapstem-api.azurewebsites.net/api/')
 ```
 
 > [!TIP]
-> You can access the API here: [https://steme.org/api/](https://insertLinkHere.com)
+> You can find the API page: [https://steme.org/api/](https://insertLinkHere.com)
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
