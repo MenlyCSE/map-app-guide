@@ -6,7 +6,6 @@
 [![Discord-Server][discord-shield]][discord-url]
 
 
-
 <!-- Logo -->
 <br />
 <div align="center">
@@ -25,26 +24,15 @@
 
 
 <!-- shortcuts -->
-
-<h1>Table of Contents</h1>
-<ol>
-  <li>
-    <a href="#about-the-project">About The Project</a>
-    <ul>
-      <li><a href="#built-with">Built With</a></li>
-    </ul>
-  </li>
-  <li>
-    <a href="#getting-started">Getting Started</a>
-    <ul>
-      <li><a href="#prerequisites">Prerequisites</a></li>
-      <li><a href="#Running-the-App">Running the App</a></li>
-    </ul>
-  </li>
-  <li><a href="#App-Demo">App Demo</a></li>
-  <li><a href="#STEME-API">STEME API</a></li>
-  <li><a href="#contributing">Contributing</a></li>
-</ol>
+- [ About The Project](#about-the-project)
+  - [ Built with](#built-with)
+- [ Getting Started](#getting-started)
+  - [ Prerequisites](#prerequisites)
+    - [ Windows](#windows)
+    - [ MacOS](#macos)
+  - [ App Demo](#app-demo)
+  - [ STEME api](#steme-api)
+  - [ How to Contribute](#how-to-contribute)
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
@@ -173,7 +161,7 @@ fetch('https://mapstem-api.azurewebsites.net/api/')
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
-## Contributing
+## How to Contribute
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
