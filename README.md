@@ -24,6 +24,8 @@
 
 
 <!-- shortcuts -->
+
+## Table of Contents
 - [ About The Project](#about-the-project)
   - [ Built with](#built-with)
 - [ Getting Started](#getting-started)
