@@ -32,7 +32,6 @@
   - [ Prerequisites](#prerequisites)
     - [ Windows](#windows)
     - [ MacOS](#macos)
-  - [ App Demo](#app-demo)
   - [ API Page](#api-page)
   - [ How to Contribute](#how-to-contribute)
 
@@ -142,14 +141,6 @@ Use your code editor (e.g., <a href="https://code.visualstudio.com/">Visual Stud
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
-
-## App Demo
-
-
-
-
-<br>
-<p align="right"><a href="#readme-top">-back to top-</a></p>
 
 
 ## API Page
