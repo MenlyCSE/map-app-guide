@@ -104,7 +104,7 @@ expo login
 
 #### MacOS
 <ol>
-  <li><a href="https://code.visualstudio.com/">Install Visual Studio Code (IDE)</a></li>
+  <li><a href="https://code.visualstudio.com/" target="_blank">Install Visual Studio Code (IDE)</a></li>
   <li><a href="https://iterm2.com/index.html">Install iTerm2 terminal</a></li>
   <li><a href="https://brew.sh/">Install homeBrew</a></li>
   <li>Use your terminal for the following commands:</a></li>
