@@ -52,6 +52,9 @@ Program's mapSTEM application tracks various events and activities in Science, T
 
 * ![React][React.js]
 * ![Google][Google.api]
+* ![NPM][NPM.js]
+* ![Node.js][node.js]
+* ![Expo][Expo]
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
@@ -195,3 +198,8 @@ Contributions are what make the open source community such an amazing place to l
 
 [Google.api]: https://img.shields.io/badge/Google-black?style=for-the-badge&logo=google&color=%2320232A
 
+[NPM.js]: https://img.shields.io/badge/NPM-20232a?style=for-the-badge&logo=NPM
+
+[node.js]: https://img.shields.io/badge/Node.js-20232a?style=for-the-badge&logo=Node.js
+
+[Expo]: https://img.shields.io/badge/Expo-20232a?style=for-the-badge&logo=Expo
