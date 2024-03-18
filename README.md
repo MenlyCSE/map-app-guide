@@ -154,14 +154,14 @@ Use your code editor (e.g., <a href="https://code.visualstudio.com/">Visual Stud
 
 ## API Page
 
-The API contains a library of information (e.g., user information):
+This contains a library of information (e.g., user information):
 
 ```sh
 fetch('https://mapstem-api.azurewebsites.net/api/')
 ```
 
 > [!TIP]
-> You can find the API page: [https://steme.org/api/](https://insertLinkHere.com)
+> You can access the page [here](https://insertLinkHere.com)
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
