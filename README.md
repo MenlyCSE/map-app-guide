@@ -7,6 +7,8 @@
 
 
 <!-- Logo -->
+<br />
+
 ![Demo](https://github.com/MenlyCSE/map-app-guide/assets/154091778/4213a767-9235-4107-8004-e97203811f0c)
 <div>
 <h3 align="center"></h3>
