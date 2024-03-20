@@ -61,8 +61,8 @@ Program's mapSTEM application tracks various events and activities in Science, T
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is will give you instructions on how to set up your project locally.
+Follow these simple steps and/or watch the YouTube guides.
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them. You can start by installing <a href="https://code.visualstudio.com/">Visual Studio Code (IDE).</a>
+These are the list of things you need for your local environment. You can start by installing <a href="https://code.visualstudio.com/">Visual Studio Code</a>, our most used code editor. 
 
 #### Windows
 <ol>
@@ -127,12 +127,15 @@ expo login
 
 Use your code editor (e.g., <a href="https://code.visualstudio.com/">Visual Studio Code</a>) to run the following commands: 
 
+
    ```sh
    git clone https://github.com/STEM-E-Youth-Career-Development-Program/map-app.git
    ```
+
    ```sh
    npm install
    ```
+
    ```sh
    npm start
    ```
@@ -159,13 +162,12 @@ fetch('https://mapstem-api.azurewebsites.net/api/')
 
 ## How to Contribute
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make this community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. With that said, there are a few ways you can add:
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- [Did you spot any errors?](https://github.com/STEM-E-Youth-Career-Development-Program/map-app/issues/new)
+- [What features could we add?](https://github.com/STEM-E-Youth-Career-Development-Program/map-app/issues/new)
+- [What would improve the app?](https://github.com/STEM-E-Youth-Career-Development-Program/map-app/issues/new) 
+- [How can we work better as a team?](https://github.com/STEM-E-Youth-Career-Development-Program/map-app/issues/new)
 
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
