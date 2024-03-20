@@ -11,7 +11,7 @@
 <div>
 <h3 align="center"></h3>
   <p align="center">
-    <a href="https://github.com/github_username/repo_name"> Ask for Help</a>
+    <a href="https://discord.com/channels/784234582999695421/857698729658417153"> Ask for Help</a>
     -
     <a href="https://github.com/STEM-E-Youth-Career-Development-Program/map-app/issues/new">Report Bug</a>
       -
