@@ -31,7 +31,6 @@
     - [ Windows](#windows)
     - [ MacOS](#macos)
   - [ API Page](#api-page)
-  - [ Demo](#demo)
   - [ How to Contribute](#how-to-contribute)
 
 <br>
