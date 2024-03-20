@@ -7,17 +7,15 @@
 
 
 <!-- Logo -->
-<br />
-<div align="center">
-  <img src="https://static.wixstatic.com/media/8c1082_5c919dc4666a4ca193ba1a9efb692ed7~mv2.png/v1/crop/x_0,y_133,w_500,h_249/fill/w_552,h_273,al_c,lg_1,q_85,enc_auto/STEM%20E%20YCDP.png" alt="Logo">
-
+![Demo](https://github.com/MenlyCSE/map-app-guide/assets/154091778/4213a767-9235-4107-8004-e97203811f0c)
+<div>
 <h3 align="center"></h3>
   <p align="center">
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name"> Ask for Help</a>
     -
     <a href="https://github.com/STEM-E-Youth-Career-Development-Program/map-app/issues/new">Report Bug</a>
-    -
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+      -
+    <a href="https://github.com/STEM-E-Youth-Career-Development-Program/map-app/issues/new">Request Feature</a>
   </p>
   <br>
 </div>
@@ -33,7 +31,7 @@
     - [ Windows](#windows)
     - [ MacOS](#macos)
   - [ API Page](#api-page)
-  - [ Demo](demo)
+  - [ Demo](#demo)
   - [ How to Contribute](#how-to-contribute)
 
 <br>
@@ -155,12 +153,6 @@ fetch('https://mapstem-api.azurewebsites.net/api/')
 > [!TIP]
 > You can access the page [here](https://insertLinkHere.com)
 
-<br>
-<p align="right"><a href="#readme-top">-back to top-</a></p>
-
-## Demo
-
-![Demo](https://github.com/MenlyCSE/map-app-guide/assets/154091778/a1dac61c-b534-47db-8bb8-aeab93f890d2)
 <br>
 <p align="right"><a href="#readme-top">-back to top-</a></p>
 
